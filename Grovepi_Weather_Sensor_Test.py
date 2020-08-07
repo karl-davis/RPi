@@ -15,7 +15,7 @@ from grove_i2c_barometic_sensor_BMP180 import BMP085
 #################################################################
 
 #InitialState Streamer Key - KAD
-streamer = Streamer(bucket_name="Shed Weather Test", bucket_key="Python", access_key="ist_1qMvI4et1jay3o3ZooCcqhOlUG1YAWy_")
+streamer = Streamer(bucket_name="Shed Weather Test", bucket_key="Python", access_key="ist_1qMvI4et1jay3o3ZooCcqhOlUG1YAWy_DLT")
 
 
 ###################################################################
